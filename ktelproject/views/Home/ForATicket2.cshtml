@@ -1,0 +1,115 @@
+﻿@model KtelProject.Models.RouteInfo
+
+
+<head>
+
+
+    @*Date Jquery Widget*@
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jQuery UI Datepicker - Default functionality</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            $("#datepicker").datepicker();
+        });
+    </script>
+
+    <style>
+        .margDown{
+            margin-top:5%;
+        }
+    </style>
+
+
+</head>
+
+@*ViewBag.Message*@
+@if (Session["Email"] != null)
+{
+<h3>Complete The Fields Below To Complete Your Booking</h3>
+
+
+using (@Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div>
+    <div class="form-inline, margDown">
+        <div class="Form-group">
+    <div class="col-md-6">
+            <p style="text-align:center">Choose The Day You Wish To Travel</p>
+                <p style="text-align:center">@Html.TextBoxFor(m => m.RouteDay, new { @id = "datepicker" })</p>     
+        </div>
+            </div>
+   
+       
+        <div class="Form-group">
+    <div class="col-md-5">
+            <p style="text-align:center">Chose Time Of Your Departure</p>
+        <div class="col-md-5>">
+            <p style="text-align:center">@Html.DropDownListFor(model => model.RouteTime, ViewBag.Trip as SelectList, "Time")</p>
+       </div>
+        </div>
+    </div>
+        </div>
+<br />
+        <br />
+ <hr />
+ 
+       <hr style="color:slategrey"/>
+
+
+        <div class="col-md-10, margDown">
+            <p style="text-align:left">Choose How Many Tickets You Want</p>
+            <div class="form-group">
+                @Html.LabelFor(x => x.Adults, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Adults, new { @Value = "0" })
+                    <p> Normal Price</p>
+                </div>
+            </div>
+            <hr />
+            <div class="form-group">
+                @Html.LabelFor(x => x.Childrens, htmlAttributes: new { @class = "control-label col-md-2"})
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Childrens, new { @Value = "0" })
+                    <p>40% Discount</p>
+                </div>
+            </div>
+            <hr />
+            <div class="form-group">
+                @Html.LabelFor(x => x.Unemployed, htmlAttributes: new { @class = "control-label col-md-2", @Value = "0" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Unemployed, new { @Value = "0" })
+                    <p> 60% Discount</p>
+                    
+                </div>
+                <hr />
+            </div>
+        </div>
+        </div>
+
+        
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="submit" class="btn btn-default" />
+            </div>
+        </div>
+        }
+        
+}
+
+else
+        {<h3>You Must Be A Registered Member To Make A Booking</h3>
+
+    <p>@Html.ActionLink("Return To Login Page", "Login")</p>
+    <br />
+   <p>@Html.ActionLink("Create A New Account", "Signup")</p>
+}
+
+
+
+

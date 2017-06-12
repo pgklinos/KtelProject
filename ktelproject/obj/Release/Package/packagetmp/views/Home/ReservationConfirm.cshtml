@@ -1,0 +1,57 @@
+﻿@model KtelProject.Models.FinalReservation
+
+<h3>Check Your Reservation</h3>
+
+@*<div>*@
+    @*<h5>Personal Information</h5>
+
+    <div class="form-group">
+        @Html.Label("Name", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @ViewBag.Name
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("LastName", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @ViewBag.LastName
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Phone Number", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @ViewBag.PhoneNumber
+        </div>
+    </div>
+</div>*@
+
+<div>
+
+
+   
+
+    @ViewBag.Departure
+    <hr />
+    @ViewBag.Destination 
+    <hr />
+    @ViewBag.TripTime
+    <hr />
+    @ViewBag.Duration
+    <hr />
+    @ViewBag.DriverFirstName
+    <hr />
+    @ViewBag.DriverLastName 
+    <br />
+    <hr />
+   @ViewBag.RouteDay
+    <hr />
+    @ViewBag.RouteTime
+    <hr />
+    @ViewBag.TotalSeats
+    <hr />
+    @ViewBag.FinalPrice
+
+
+</div>

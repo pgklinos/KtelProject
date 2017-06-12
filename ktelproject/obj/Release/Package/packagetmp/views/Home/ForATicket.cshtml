@@ -1,0 +1,105 @@
+﻿@model IEnumerable<KtelProject.Models.Route>
+
+@{
+    ViewBag.Title = "The Choise Is Yours";
+}
+
+<h3>Your Journey Begins Here</h3>
+
+<p>
+    @using (@Html.BeginForm("ForATicket", "Home", FormMethod.Get))
+    {
+        <b>Search By (Departure Or Destination):</b>
+
+        @Html.TextBox("search") <input type="submit" value="search" />
+    }
+</p>
+
+
+@*Admin will use these commands*@
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Departure)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Destination)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Duration)
+        </th>
+        <th></th>
+    </tr>
+
+
+
+    @if (Model.Count() == 0)
+    {
+        <tr>
+            <td colspan="4">
+                No records match search criteria
+            </td>
+        </tr>
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+            if (Session["Email"] != null)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Departure)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Destination)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Duration)
+                    </td>
+                    <td>
+
+                        @*Admin Will use these commands*@
+
+                        @*@Html.ActionLink("Edit", "Edit", new { id = item.RouteID }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.RouteID }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.RouteID })*@
+
+                        @Html.ActionLink("Reserve Ticket", "ForATicket2", "Home", new { item.RouteID }, new { style = "color: Red;" })
+
+
+                    </td>
+                </tr>
+            }
+            else
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Departure)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Destination)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Duration)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Reserve Ticket", "Login")
+                    </td>
+                </tr>
+            }
+        }
+    }
+</table>

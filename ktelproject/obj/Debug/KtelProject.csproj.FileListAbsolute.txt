@@ -1,0 +1,1164 @@
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\ApplicationInsights.config
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\csc.exe
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\csc.rsp
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\csi.exe
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\csi.rsp
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\vbc.exe
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\KtelProject.dll.config
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\KtelProject.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\KtelProject.pdb
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\EntityFramework.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.Razor.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\WebGrease.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\EntityFramework.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.Razor.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\John Gklinos\Desktop\Ktel Project\KtelProject\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\John Gklinos\Desktop\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\X\Desktop\New folder (8)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (1-6-2016 Version)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\X\Desktop\New folder (4)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\X\Desktop\New folder (3)\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\X\Desktop\6-6-2017\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\panagiotis\Desktop\6-6-2016\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\panagiotis\Desktop\7-6-2016mesimeri\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\X\Desktop\X\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\X\Desktop\XX\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\panagiotis\Desktop\KtelWorkInProgress (11-6-2017)v3\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\panagiotis\Desktop\version den kserw\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\X\Desktop\DouleuounOla\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\ApplicationInsights.config
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\csc.exe.config
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\csc.rsp
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\csi.exe
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\csi.rsp
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\System.AppContext.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.exe.config
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\vbc.rsp
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\KtelProject.dll.config
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\KtelProject.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\KtelProject.pdb
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\EntityFramework.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\WebGrease.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\EntityFramework.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\EntityFramework.SqlServer.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.Helpers.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.Mvc.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.Optimization.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.Razor.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Antlr3.Runtime.pdb
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Newtonsoft.Json.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\bin\Microsoft.AI.Web.xml
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.csprojResolveAssemblyReference.cache
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.dll
+C:\Users\panagiotis\Desktop\Douleuoun Ola v2\KtelWorkInProgress\KtelProject\obj\Debug\KtelProject.pdb

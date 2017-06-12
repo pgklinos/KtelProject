@@ -1,0 +1,57 @@
+﻿@model KtelProject.Models.FinalReservation
+
+<h3>Please Check Your Information And Confirm Your Booking</h3>
+
+
+@using (Html.BeginForm())
+{
+
+    <p><b>Personal Information</b></p>
+    <hr />
+    <p> First Name: @ViewBag.UserFirstName</p>
+    <hr />
+
+    <p>Last Name: @ViewBag.UserLastName</p>
+    <hr />
+    @*@if(@ViewBag.UserPhoneNumber != 0)
+    {*@
+    <p>Phone Number: @ViewBag.UserPhoneNumber</p>
+    <hr />
+
+    
+<p><b>Trip Information</b></p>
+    <hr />
+    <p>Route: @ViewBag.Departure - @ViewBag.Destination</p>
+    <hr />
+
+    <p> Time: @ViewBag.TripTime</p>
+    <hr />
+
+    <p> Duration: @ViewBag.Duration</p>
+    <hr />
+
+
+    <p> Bus' Driver Name: @ViewBag.DriverFirstName @ViewBag.DriverLastName</p>
+    <hr />
+
+   
+    <p>Date: @ViewBag.RouteDay.ToShortDateString()</p>
+    <hr />
+
+    <br />
+
+    <p><b>Extra Info</b></p>
+    <hr />
+    <p>Total Seats: @ViewBag.TotalSeats</p>
+    <hr />
+
+    <p>Total Price: @ViewBag.FinalPrice</p>
+    <hr/>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Confirm Booking" class="btn btn-default" />
+        </div>
+    </div>
+
+}

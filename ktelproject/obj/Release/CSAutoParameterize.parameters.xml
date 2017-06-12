@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="KtelModelsEntities-Web.config Connection String" description="KtelModelsEntities Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\KtelDatabase.mdf;integrated security=True;multipleactiveresultsets=True;application name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\panagiotis\\Desktop\\7-6-2016mesimeri\\KtelWorkInProgress\\KtelProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='KtelModelsEntities']/@connectionString" />
+  </parameter>
+  <parameter name="KtelModelsEntities_DatabasePublish-Web.config Connection String" description="KtelModelsEntities_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="KtelModelsEntities_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\panagiotis\\Desktop\\7-6-2016mesimeri\\KtelWorkInProgress\\KtelProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='KtelModelsEntities_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

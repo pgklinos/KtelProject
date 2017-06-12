@@ -1,0 +1,46 @@
+﻿@model IEnumerable<KtelProject.Models.ReservationViewModel>
+
+
+<h4><b>My Recent Bookings</b></h4>
+<table class="table">
+    <tr>
+
+        <th>
+            From
+        </th>
+        <th>
+            To
+        </th>
+        <th>
+            Date
+        </th>
+        <th>
+            Time
+        </th>
+        <th>
+            Seats
+        </th>
+        <th>
+            Price
+        </th>
+        <th></th>
+    </tr>
+
+    @if (Model != null)
+    {
+
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Departure</td>
+                <td>@item.Destination</td>
+                <td>@item.DateOfReservation.ToShortDateString() </td>
+                <td>@item.TripTime</td>
+                <td>@item.SeatsOfReservation</td>
+                <td>@item.PriceOfReservation</td>
+            </tr>}
+    }
+
+
+</table>
+

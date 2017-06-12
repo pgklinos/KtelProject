@@ -1,0 +1,98 @@
+﻿@model KtelProject.Models.RouteInfo
+
+
+<head>
+
+
+    @*Date Jquery Widget*@
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jQuery UI Datepicker - Default functionality</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            $("#datepicker").datepicker();
+        });
+    </script>
+
+
+
+
+</head>
+
+@*ViewBag.Message*@
+
+<h3>Complete The Below Fields To Complete Your Reservation</h3>
+
+@using (@Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+
+    <div class="form-group">
+        @*@Html.LabelFor(m => m.RouteDay, new { @class = "col-md-2 control-label" })*@
+        <p>Choose Your Day Of Departure</p>
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.RouteDay, new { @id = "datepicker" })
+        </div>
+    </div>
+
+    <hr />
+
+    <div class="form-group">
+        @*@Html.DisplayFor(model => model.RouteTime, htmlAttributes: new { @class = "control-label col-md-2" })*@
+        <p>Chose Your Time Of Departure</p>
+        
+        @Html.DropDownListFor(model => model.RouteTime, ViewBag.Trip as SelectList, "Time")
+        </div>
+
+        <hr />
+
+        @*<div class="form-group">@Html.DisplayFor(model => model.AvailableSeats)</div>
+
+            <div class="col-md-10>">
+                    @Html.TextBoxFor(model => model.AvailableSeats)
+                </div >*@
+
+
+        <div>
+            <p> Choose How Many Tickets You Want</p>
+            <div class="form-group">
+                @Html.LabelFor(x => x.Adults, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Adults, "0")
+                </div>
+            </div>
+            <hr />
+            <div class="form-group">
+                @Html.LabelFor(x => x.Childrens, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Childrens, "0")
+                </div>
+            </div>
+            <hr />
+            <div class="form-group">
+                @Html.LabelFor(x => x.Elders, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Elders, "0")
+                </div>
+                <hr />
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="submit" class="btn btn-default" />
+            </div>
+        </div>
+
+        }
+
+
+
